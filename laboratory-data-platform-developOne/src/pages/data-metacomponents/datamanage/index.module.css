@@ -1,0 +1,17 @@
+.btn-success {
+  background: #5FD45F !important;
+  border-color: #5FD45F !important;
+  color: white !important;
+}
+
+.btn-success:hover {
+  background: #7ee47e !important;
+  border-color: #7ee47e !important;
+  color: white !important;
+}
+
+.btn-success:active {
+  background: #5FD45F !important;
+  border-color: #5FD45F !important;
+  color: white !important;
+}
